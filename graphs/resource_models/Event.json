@@ -1835,9 +1835,7 @@
                 {
                     "card_id": "3228438f-465b-11ee-8a8d-11afefc4bff7",
                     "config": {
-                        "defaultValue": [
-                            "8f40c740-3c02-4839-b1a4-f1460823a9fe"
-                        ],
+                        "defaultValue": [],
                         "i18n_properties": [
                             "placeholder"
                         ],
