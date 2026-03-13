@@ -18912,6 +18912,7 @@
             "iconclass": "fa fa-group",
             "is_editable": false,
             "isresource": true,
+            "is_active": true,
             "jsonldcontext": "https://linked.art/ns/v1/linked-art.json",
             "name": {
                 "en": "Group"
